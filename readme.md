@@ -1,3 +1,18 @@
+# Ember Js stack evolving with use of grunt.
+ new scripts to be referenced here in setups
+ primary features to be set up here:
+ * login via facebook, google, twitter, etc.
+ * optional data import
+ * user prefs setup 
+ * blog reader
+ * dashboard setup 
+ * persisted todo list- to experiment with sharing and user referencing via ui in ember
+ * travis-ci based continuous integration
+ * grunt bundling optimizations for dev, testing, and deployment
+ * chef script, other deployment optimization scripts
+
+
+
 ## Laravel PHP Framework
 
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
