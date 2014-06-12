@@ -100,7 +100,7 @@ module.exports = function(grunt) {
     },
     shell: {
         serve: {
-            command: 'php artisan serve && echo "hey"'
+            command: 'php artisan serve && echo "Love is the essence of the universe. "'
         }
     },
     emberTemplates: {
